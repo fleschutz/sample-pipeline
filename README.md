@@ -1,6 +1,5 @@
-How to set up a Jenkins Build Farm
-==================================
-
+Setting up a Jenkins Build Farm
+===============================
 This repo contains step-by-step instructions how to install [Jenkins](https://jenkins.io) and sample [Pipelines](https://www.jenkins.io/doc/book/pipeline/) for CI/CD (Continuous Integration and Continuous Delivery/Deployment).
 
 🔧 1. Install the Jenkins Server
@@ -61,9 +60,8 @@ You're all set. Welcome to the Jenkins ecosystem! More background information ca
 🤝 Contributing
 ----------------
 * Contributions, suggestions, and improvements are welcome!
-* Open an Issue if you encounter bugs or have feature ideas.
-* Create a Pull Request if you'd like to improve something.
-* Or just send your feedback to: markus.fleschutz [at] gmail.com
+* Open an [Issue](https://github.com/fleschutz/Jenkins-build-farm/issues) if you encounter bugs or have feature ideas.
+* Create a [Pull Request](https://github.com/fleschutz/Jenkins-build-farm/pulls) if you'd like to improve something.
 
 📜 License & Copyright
 -----------------------
