@@ -1,10 +1,5 @@
-Headline
-========
+Checklists
+==========
 
-Some introductory words...
-
-1. Do this...
-2. Do that...
-
-
-Copyright © 2025 Joe Doe. All Rights Reserved.
+* [Setup a Jenkins build farm](Jenkins-build-farm.md)
+* [Setup Wake-on-LAN](Wake-on-LAN.md)
