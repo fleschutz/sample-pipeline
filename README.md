@@ -1,5 +1,6 @@
-Checklists
-==========
+Checklists & Cheat sheets
+=========================
 
-* [Setup a Jenkins build farm](Jenkins-build-farm.md)
-* [Setup Wake-on-LAN](Wake-on-LAN.md)
+* [Orchidee > Phalaenopsis](Phalaenopsis.md)
+* [PC > Setup Jenkins](Jenkins-build-farm.md)
+* [PC > Setup Wake-on-LAN](Wake-on-LAN.md)
