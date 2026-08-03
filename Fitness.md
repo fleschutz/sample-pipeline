@@ -2,7 +2,7 @@
 
 (Foto: pixabay.com)
 
-# ✅ Checkliste Fit werden
+# ✅ Checkliste Fitness
 
 ... ![Bild](/img/MF.png) *Von Markus Fleschutz* 🕓 *2. Januar 2020*
 
